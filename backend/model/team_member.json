@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sakshi",
+        "role": "Frontend Developer",
+        "skills": ["frontend", "ui", "react", "bug"]
+    },
+    {
+        "name": "Mohit",
+        "role": "Backend Engineer",
+        "skills": ["backend", "database", "api", "performance"]
+    },
+    {
+        "name": "Arjun",
+        "role": "UI/UX Designer",
+        "skills": ["design", "figma", "ui", "ux"]
+    },
+    {
+        "name": "Lata",
+        "role": "QA Engineer",
+        "skills": ["testing", "qa", "automation"]
+    }
+]
