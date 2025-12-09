@@ -65,7 +65,24 @@ PRIORITY_MAP = {
     "low priority": "Low"
 }
 
+# ================================================================
+# Helper: Split transcript into individual sentences
+# ================================================================
+def split_into_sentences(text: str):
+    """
+    Splits the transcript into clean sentences.
+    Handles '.', '?', '!', and newline breaks.
+    """
+    if not text or not isinstance(text, str):
+        return []
 
+    # Split on punctuation that ends a sentence
+    sentences = re.split(r'(?<=[.!?])\s+', text.strip())
+
+    # Remove empty sentences and trim whitespace
+    sentences = [s.strip() for s in sentences if s.strip()]
+
+    return sentences
 # ================================================================
 # MAIN FUNCTION → Extract all tasks from transcript
 # ================================================================

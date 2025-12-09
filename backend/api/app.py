@@ -18,9 +18,9 @@ from fastapi.middleware.cors import CORSMiddleware
 import os
 
 # Import service modules (these files we will create next)
-from backend.services.stt_service import speech_to_text
-from backend.nlp.nlp_rules import extract_tasks
-from backend.assingment.assingment_logic import assign_tasks
+from services.stt_service import speech_to_text
+from nlp.pipeline import process_transcript as run_nlp_pipeline
+from assingment.assingment_logic import assign_tasks
 
 
 # ---------------------------------------------------------------
@@ -59,34 +59,35 @@ os.makedirs(TEMP_DIR, exist_ok=True)
 #   4. Extract tasks from text (NLP)
 #   5. Assign tasks to appropriate team member
 #   6. Return JSON response
-# ---------------------------------------------------------------
+def _process_tasks(transcript: str, auto_assign: bool = True):
+    """
+    Run the NLP pipeline and optionally apply assignment logic.
+    """
+    tasks = run_nlp_pipeline(transcript)
+
+    if auto_assign and tasks:
+        return assign_tasks(tasks)
+
+    return tasks
+
+
 @app.post("/upload-audio")
 async def upload_audio(file: UploadFile = File(...)):
-    """
-    Upload meeting audio and extract tasks.
-    """
-
-    # Step A: Save file temporarily
+    # Save file
     file_path = f"{TEMP_DIR}/{file.filename}"
     with open(file_path, "wb") as f:
         f.write(await file.read())
 
-    # Step B: Convert Audio → Text using Gemini / Whisper
+    # STT → Transcript
     transcript = speech_to_text(file_path)
 
-    # Step C: Task Extraction using NLP rules
-    extracted_tasks = extract_tasks(transcript)
+    # Process transcript through hybrid pipeline
+    tasks = _process_tasks(transcript, auto_assign=True)
 
-    # Step D: Assign tasks to team members
-    final_output = assign_tasks(extracted_tasks)
-
-    # Step E: Return final data
     return {
         "transcript": transcript,
-        "tasks": final_output
+        "tasks": tasks
     }
-
-
 # ---------------------------------------------------------------
 # Health Check Route
 # Used by developers & frontend to verify backend is running.

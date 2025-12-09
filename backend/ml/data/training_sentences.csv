@@ -1,0 +1,2202 @@
+sentence,label
+so Migrate the payment gateway by tomorrow,1
+so Please Improve the notification service as soon as possible,1
+so This decision is still pending.,0
+so Sakshi mentioned the login bug yesterday.,0
+We need to Patch the UI components before next release,1
+um Nothing actionable at the moment.,0
+uh Please Add the monitoring dashboard by Friday,1
+um Can someone Configure user authentication?,1
+um Configure the analytics API needs to be done by Friday,1
+so Write database performance for the next sprint,1
+um The database performance improved yesterday.,0
+so Let's Improve the recommendation engine as soon as possible,1
+Let's Implement database performance before next release,1
+so Create the analytics API urgently please,1
+um Someone updated the payment gateway earlier.,0
+so This requires additional approval.,0
+like Let's Implement the monitoring dashboard due this week,1
+like We will discuss this again tomorrow.,0
+so Let’s wait for stakeholder feedback.,0
+um We should wait for product input.,0
+Please Patch the monitoring dashboard by tomorrow,1
+uh Let's Add logging system as soon as possible,1
+like Nothing actionable at the moment.,0
+like This is still under review.,0
+uh Please Resolve unit tests before next release,1
+so Someone should Refactor data migration script as soon as possible,1
+like Integrate the notification service due this week,1
+uh This is still under review.,0
+like We need to Design data migration script urgently,1
+uh Can someone Patch the search indexing logic as soon as possible?,1
+uh Someone updated the payment gateway earlier.,0
+so Design database performance by Friday please,1
+uh Someone updated the payment gateway earlier.,0
+uh Can someone Improve the recommendation engine as soon as possible?,1
+like Someone should Develop user authentication,1
+so We reviewed the API documentation last week.,0
+so Let's Update the login bug by tomorrow,1
+um This is still under review.,0
+like We should Design logging system urgently,1
+so We will discuss this again tomorrow.,0
+uh Optimize the search indexing logic please,1
+uh We will revisit this topic later.,0
+uh There is no blocker right now.,0
+uh Build the payment gateway before next release,1
+uh We can postpone this to next sprint.,0
+Optimize the payment gateway by Friday,1
+uh Please Build the UI components,1
+This is still under review.,0
+um Optimize onboarding screen as soon as possible please,1
+uh It would be good to Optimize onboarding screen due this week,1
+so It would be good to Optimize database performance by Friday,1
+uh Someone should Create the login bug due this week,1
+um It would be good to Develop user authentication urgently,1
+uh We will discuss this again tomorrow.,0
+like There is no blocker right now.,0
+like We need more information before proceeding.,0
+Someone updated the payment gateway earlier.,0
+um Debug the caching layer needs to be done due this week,1
+um This will be discussed next week.,0
+so It would be good to Design the recommendation engine by tomorrow,1
+like This requires additional approval.,0
+uh This will be discussed next week.,0
+Enhance the caching layer needs to be done by Friday,1
+We should analyze this further.,0
+so We will revisit this topic later.,0
+so Can someone Patch the payment gateway due this week?,1
+um We need to Optimize the analytics API by Friday,1
+like Write unit tests before next release please,1
+It would be good to Create the payment gateway due this week,1
+Let’s wait for stakeholder feedback.,0
+um The database performance improved yesterday.,0
+uh Arjun designed the onboarding screens last month.,0
+so Design logging system due this week please,1
+uh Please Fix logging system,1
+so We should wait for product input.,0
+so This depends on future planning.,0
+uh We should analyze this further.,0
+uh Let's Design the notification service urgently,1
+so It would be good to Develop API documentation by Friday,1
+so Design onboarding screen needs to be done before next release,1
+so Let's Design the recommendation engine for the next sprint,1
+Please Write user authentication due this week,1
+uh Improve user authentication as soon as possible,1
+like Design the notification service by Friday,1
+um Add the search indexing logic,1
+so The team optimized the caching layer before.,0
+like We need to Implement the caching layer by tomorrow,1
+Can someone Configure the mobile layout urgently?,1
+We should Implement the caching layer,1
+uh Sakshi mentioned the login bug yesterday.,0
+uh Integrate unit tests needs to be done by tomorrow,1
+uh We will discuss this again tomorrow.,0
+so We should Create the UI components due this week,1
+uh This is still under review.,0
+like Please Optimize the payment gateway due this week,1
+uh Please Debug onboarding screen due this week,1
+um We need to Integrate the monitoring dashboard due this week,1
+like Someone should Design the notification service as soon as possible,1
+It would be good to Patch the UI components as soon as possible,1
+so It would be good to Configure unit tests for the next sprint,1
+like We should Refactor the mobile layout urgently,1
+um Debug user authentication needs to be done urgently,1
+uh Someone should Patch onboarding screen before next release,1
+so The database performance improved yesterday.,0
+uh Let's Write the login bug due this week,1
+uh This depends on future planning.,0
+uh It would be good to Configure the monitoring dashboard as soon as possible,1
+um We need to Enhance the payment gateway due this week,1
+um This requires additional approval.,0
+uh There is no blocker right now.,0
+uh We should wait for product input.,0
+um Create the payment gateway urgently please,1
+This requires additional approval.,0
+um Let's Enhance API documentation,1
+so We can postpone this to next sprint.,0
+so We need to Refactor database performance urgently,1
+so Refactor onboarding screen before next release,1
+um Implement user authentication please,1
+like We will revisit this topic later.,0
+Nothing actionable at the moment.,0
+um We will discuss this again tomorrow.,0
+like It would be good to Fix the analytics API as soon as possible,1
+We should Configure the search indexing logic as soon as possible,1
+Migrate unit tests as soon as possible,1
+We need more information before proceeding.,0
+uh Can someone Configure the notification service for the next sprint?,1
+so The team optimized the caching layer before.,0
+so Let's Update the monitoring dashboard before next release,1
+um We should collect more data first.,0
+like It would be good to Migrate data migration script before next release,1
+um We should Write the analytics API for the next sprint,1
+uh Please Develop user authentication by tomorrow,1
+um This decision is still pending.,0
+um Fix logging system needs to be done due this week,1
+uh We need to Refactor the search indexing logic as soon as possible,1
+uh Let's Debug the monitoring dashboard,1
+um This requires additional approval.,0
+Migrate unit tests needs to be done,1
+um The database performance improved yesterday.,0
+um Add the caching layer needs to be done before next release,1
+like Add onboarding screen needs to be done due this week,1
+uh This is not a priority currently.,0
+uh Please Configure the notification service for the next sprint,1
+um We need design approval first.,0
+We need to Enhance unit tests before next release,1
+like Configure the caching layer needs to be done as soon as possible,1
+um Please Build the recommendation engine by tomorrow,1
+Resolve user authentication needs to be done urgently,1
+um We should Debug onboarding screen urgently,1
+um There is no urgency for this item.,0
+uh We reviewed the API documentation last week.,0
+um This decision is still pending.,0
+so Please Implement the login bug by tomorrow,1
+like Design the mobile layout needs to be done as soon as possible,1
+like Someone should Create the monitoring dashboard urgently,1
+um Create unit tests for the next sprint,1
+um We need to Migrate the UI components,1
+like Someone should Update the notification service before next release,1
+like We should Implement data migration script due this week,1
+uh Build unit tests needs to be done due this week,1
+uh No action items were mentioned.,0
+We can postpone this to next sprint.,0
+uh Improve the UI components as soon as possible please,1
+like No action items were mentioned.,0
+like We should analyze this further.,0
+We need to Write data migration script by tomorrow,1
+like Can someone Debug database performance for the next sprint?,1
+um The team is still evaluating this.,0
+like It would be good to Develop onboarding screen before next release,1
+uh The login bug was fixed previously.,0
+Can someone Build the monitoring dashboard for the next sprint?,1
+We should collect more data first.,0
+like We should collect more data first.,0
+um The team optimized the caching layer before.,0
+We should collect more data first.,0
+Can someone Optimize the mobile layout by Friday?,1
+Arjun designed the onboarding screens last month.,0
+so Please Add data migration script by Friday,1
+um It would be good to Design unit tests before next release,1
+Migrate user authentication needs to be done for the next sprint,1
+um Someone should Add the notification service for the next sprint,1
+so The team is still evaluating this.,0
+um Someone should Update session management urgently,1
+uh We need to Debug data migration script,1
+so It would be good to Integrate user authentication as soon as possible,1
+We should Migrate the payment gateway by Friday,1
+Can someone Create the recommendation engine due this week?,1
+um We should Update logging system as soon as possible,1
+like We should Patch the UI components,1
+um It would be good to Resolve the mobile layout,1
+uh Arjun designed the onboarding screens last month.,0
+like We should Refactor API documentation urgently,1
+like Let's Create the search indexing logic,1
+so We should Develop the recommendation engine urgently,1
+uh We will discuss this again tomorrow.,0
+This will be discussed next week.,0
+so It would be good to Optimize the monitoring dashboard by Friday,1
+like Sakshi mentioned the login bug yesterday.,0
+This will be discussed next week.,0
+uh We should Write the search indexing logic due this week,1
+so There is no blocker right now.,0
+uh Can someone Improve API documentation as soon as possible?,1
+like Let's Refactor database performance by Friday,1
+so Integrate the recommendation engine needs to be done for the next sprint,1
+like This is not a priority currently.,0
+uh We need design approval first.,0
+like The team is still evaluating this.,0
+so It would be good to Fix the payment gateway,1
+so We should Update onboarding screen by Friday,1
+We should Enhance user authentication as soon as possible,1
+like Let’s wait for stakeholder feedback.,0
+like The database performance improved yesterday.,0
+We will discuss this again tomorrow.,0
+We need more information before proceeding.,0
+um It would be good to Patch database performance by Friday,1
+like This is not a priority currently.,0
+uh We should Create the mobile layout by tomorrow,1
+This requires additional approval.,0
+like Configure the monitoring dashboard due this week please,1
+Develop the payment gateway for the next sprint please,1
+like Arjun designed the onboarding screens last month.,0
+um We should Integrate session management before next release,1
+uh We need to Optimize unit tests by Friday,1
+so Arjun designed the onboarding screens last month.,0
+um Migrate database performance as soon as possible,1
+like We should Write API documentation before next release,1
+um Someone updated the payment gateway earlier.,0
+uh We need to Enhance the recommendation engine due this week,1
+so Someone should Patch the caching layer by Friday,1
+uh We need to Fix logging system for the next sprint,1
+uh This depends on future planning.,0
+like Add session management by tomorrow please,1
+like We need more information before proceeding.,0
+like Fix the mobile layout please,1
+uh Patch the recommendation engine needs to be done by tomorrow,1
+like Someone should Write onboarding screen by tomorrow,1
+um The login bug was fixed previously.,0
+so Someone should Update the mobile layout due this week,1
+uh Enhance the payment gateway by tomorrow,1
+uh Please Optimize the payment gateway due this week,1
+like Sakshi mentioned the login bug yesterday.,0
+We should analyze this further.,0
+uh Can someone Patch onboarding screen as soon as possible?,1
+uh This depends on future planning.,0
+uh Can someone Add the recommendation engine?,1
+so Migrate the UI components needs to be done,1
+um Let’s wait for stakeholder feedback.,0
+We should collect more data first.,0
+uh This is still under review.,0
+like Let’s wait for stakeholder feedback.,0
+uh We need to Write the search indexing logic,1
+so Please Update onboarding screen by tomorrow,1
+Nothing actionable at the moment.,0
+The team is still evaluating this.,0
+um This depends on future planning.,0
+This requires additional approval.,0
+like Please Configure session management due this week,1
+uh We need more information before proceeding.,0
+We need more information before proceeding.,0
+Someone should Build the analytics API by Friday,1
+um Let's Migrate the payment gateway for the next sprint,1
+like Someone should Integrate the analytics API for the next sprint,1
+like Mohit worked on database performance last sprint.,0
+We need to Develop data migration script urgently,1
+like Someone should Debug data migration script before next release,1
+like Someone should Refactor the mobile layout by tomorrow,1
+like Sakshi mentioned the login bug yesterday.,0
+Nothing actionable at the moment.,0
+so We need design approval first.,0
+um Can someone Optimize user authentication by Friday?,1
+We need more information before proceeding.,0
+like No action items were mentioned.,0
+so Please Migrate session management as soon as possible,1
+um Can someone Improve data migration script due this week?,1
+um There is no urgency for this item.,0
+um Write the mobile layout for the next sprint please,1
+so Someone updated the payment gateway earlier.,0
+so Someone should Update API documentation as soon as possible,1
+um Someone updated the payment gateway earlier.,0
+like Please Integrate the notification service before next release,1
+um Enhance data migration script needs to be done by tomorrow,1
+uh There is no urgency for this item.,0
+like Fix the monitoring dashboard by tomorrow,1
+like There is no urgency for this item.,0
+so Sakshi mentioned the login bug yesterday.,0
+The team is still evaluating this.,0
+uh Let's Resolve user authentication urgently,1
+um The login bug was fixed previously.,0
+so The database performance improved yesterday.,0
+like Can someone Develop API documentation by Friday?,1
+like There is no blocker right now.,0
+Let’s wait for stakeholder feedback.,0
+We should wait for product input.,0
+like We should Design API documentation urgently,1
+so It would be good to Build data migration script for the next sprint,1
+uh We need design approval first.,0
+like We need design approval first.,0
+like Sakshi mentioned the login bug yesterday.,0
+uh Enhance API documentation before next release,1
+It would be good to Improve the caching layer,1
+uh This will be discussed next week.,0
+like Improve unit tests before next release please,1
+um We will revisit this topic later.,0
+um We should analyze this further.,0
+so There is no urgency for this item.,0
+uh We should Update onboarding screen by tomorrow,1
+uh Integrate the search indexing logic for the next sprint please,1
+um Arjun designed the onboarding screens last month.,0
+We should Create onboarding screen due this week,1
+um Configure logging system please,1
+um Someone updated the payment gateway earlier.,0
+like This decision is still pending.,0
+like Someone should Integrate the login bug for the next sprint,1
+um Let's Configure data migration script by tomorrow,1
+like The login bug was fixed previously.,0
+Someone should Develop logging system for the next sprint,1
+Improve the analytics API as soon as possible,1
+uh Someone should Update the recommendation engine urgently,1
+so We will discuss this again tomorrow.,0
+uh We should Create the recommendation engine by Friday,1
+This will be discussed next week.,0
+so Can someone Design the login bug due this week?,1
+um Let’s wait for stakeholder feedback.,0
+um We need to Fix onboarding screen,1
+Let’s wait for stakeholder feedback.,0
+like This decision is still pending.,0
+like We should analyze this further.,0
+like We need to Configure data migration script before next release,1
+We will discuss this again tomorrow.,0
+um The team optimized the caching layer before.,0
+um This will be discussed next week.,0
+Design the recommendation engine please,1
+uh We need to Optimize the monitoring dashboard for the next sprint,1
+like This depends on future planning.,0
+um This requires additional approval.,0
+We should Debug unit tests by Friday,1
+um We should Build the analytics API,1
+We will discuss this again tomorrow.,0
+like Please Fix data migration script for the next sprint,1
+so We should Enhance database performance for the next sprint,1
+Please Write onboarding screen as soon as possible,1
+uh We should Fix the analytics API before next release,1
+so This is still under review.,0
+like Let's Create the notification service by Friday,1
+like Can someone Debug the recommendation engine by Friday?,1
+uh Let's Add unit tests for the next sprint,1
+so Let's Optimize the analytics API by tomorrow,1
+um This will be discussed next week.,0
+uh Can someone Enhance the caching layer by Friday?,1
+like Please Build API documentation due this week,1
+so Can someone Refactor API documentation by tomorrow?,1
+so Someone should Update the notification service by tomorrow,1
+Please Refactor the mobile layout urgently,1
+uh Configure the search indexing logic for the next sprint,1
+like Write unit tests by Friday please,1
+like Someone should Implement logging system by tomorrow,1
+uh Fix onboarding screen due this week please,1
+um We need to Update database performance due this week,1
+um Let’s wait for stakeholder feedback.,0
+The team optimized the caching layer before.,0
+um This is still under review.,0
+so We need design approval first.,0
+uh We need to Debug logging system urgently,1
+so We need to Write API documentation by tomorrow,1
+uh The database performance improved yesterday.,0
+so The team optimized the caching layer before.,0
+like Update data migration script urgently please,1
+uh Please Patch the search indexing logic before next release,1
+uh It would be good to Add the analytics API for the next sprint,1
+um It would be good to Migrate database performance urgently,1
+um It would be good to Fix the search indexing logic for the next sprint,1
+so We need more information before proceeding.,0
+uh The team is still evaluating this.,0
+like The database performance improved yesterday.,0
+um Someone should Develop session management before next release,1
+so Mohit worked on database performance last sprint.,0
+Create the caching layer urgently,1
+like We need to Optimize the analytics API as soon as possible,1
+so This is still under review.,0
+uh It would be good to Implement the mobile layout for the next sprint,1
+uh Implement session management by tomorrow,1
+like This will be discussed next week.,0
+so Integrate the caching layer as soon as possible please,1
+uh We need to Enhance the search indexing logic urgently,1
+The login bug was fixed previously.,0
+um Create the search indexing logic needs to be done for the next sprint,1
+so We should collect more data first.,0
+um Migrate the payment gateway needs to be done for the next sprint,1
+um The team is still evaluating this.,0
+uh Implement onboarding screen needs to be done as soon as possible,1
+Please Create the login bug urgently,1
+so We need more information before proceeding.,0
+so Can someone Fix onboarding screen by tomorrow?,1
+like Configure the notification service by tomorrow,1
+This depends on future planning.,0
+like Can someone Fix the recommendation engine by Friday?,1
+We will revisit this topic later.,0
+like The database performance improved yesterday.,0
+Someone should Refactor the payment gateway by tomorrow,1
+um We should Optimize onboarding screen urgently,1
+so The team is still evaluating this.,0
+Someone should Enhance the payment gateway before next release,1
+um Someone updated the payment gateway earlier.,0
+uh We should analyze this further.,0
+um Can someone Update the monitoring dashboard due this week?,1
+uh Migrate the UI components by Friday,1
+We should wait for product input.,0
+so We can postpone this to next sprint.,0
+so Arjun designed the onboarding screens last month.,0
+uh It would be good to Debug data migration script by Friday,1
+um Debug logging system,1
+Improve the mobile layout needs to be done by Friday,1
+uh It would be good to Migrate the mobile layout before next release,1
+The team optimized the caching layer before.,0
+um This requires additional approval.,0
+so Improve the mobile layout by tomorrow please,1
+It would be good to Develop the UI components for the next sprint,1
+so The database performance improved yesterday.,0
+um Improve the UI components needs to be done urgently,1
+uh This decision is still pending.,0
+like The database performance improved yesterday.,0
+uh Someone should Write session management for the next sprint,1
+like Enhance the search indexing logic needs to be done,1
+uh Sakshi mentioned the login bug yesterday.,0
+so Can someone Configure the monitoring dashboard?,1
+um Let's Design the payment gateway by tomorrow,1
+um Someone should Design the mobile layout by tomorrow,1
+uh Please Create the notification service as soon as possible,1
+uh Design user authentication please,1
+um The login bug was fixed previously.,0
+uh We should Write API documentation by Friday,1
+so Create database performance for the next sprint please,1
+like Please Add the search indexing logic as soon as possible,1
+um The login bug was fixed previously.,0
+so We will discuss this again tomorrow.,0
+like We will revisit this topic later.,0
+It would be good to Update the login bug by Friday,1
+so We need more information before proceeding.,0
+so This requires additional approval.,0
+so Someone should Design API documentation for the next sprint,1
+so It would be good to Patch session management urgently,1
+um We should analyze this further.,0
+so We should Optimize the payment gateway urgently,1
+uh Please Fix the notification service due this week,1
+um It would be good to Debug the notification service for the next sprint,1
+so Can someone Write data migration script by Friday?,1
+We should Patch the recommendation engine urgently,1
+We should Optimize data migration script by Friday,1
+like We should Enhance the mobile layout urgently,1
+like Can someone Enhance the mobile layout?,1
+This depends on future planning.,0
+like We should Debug the login bug by Friday,1
+um We need to Build the recommendation engine before next release,1
+uh Please Improve the monitoring dashboard as soon as possible,1
+so We need to Build database performance,1
+uh We reviewed the API documentation last week.,0
+um This will be discussed next week.,0
+so Patch data migration script needs to be done due this week,1
+um Let's Fix the caching layer for the next sprint,1
+um We should analyze this further.,0
+so We should collect more data first.,0
+um Integrate onboarding screen needs to be done due this week,1
+like We need to Integrate API documentation by Friday,1
+like Nothing actionable at the moment.,0
+Write the recommendation engine needs to be done due this week,1
+uh Nothing actionable at the moment.,0
+uh The team optimized the caching layer before.,0
+We should wait for product input.,0
+so Build logging system needs to be done due this week,1
+so Add API documentation needs to be done urgently,1
+um Someone should Develop the login bug by tomorrow,1
+like Please Refactor the login bug by tomorrow,1
+Let’s wait for stakeholder feedback.,0
+um We reviewed the API documentation last week.,0
+Nothing actionable at the moment.,0
+uh We should Integrate the monitoring dashboard,1
+like Resolve unit tests,1
+uh Someone should Add the login bug,1
+uh It would be good to Resolve the notification service for the next sprint,1
+like Please Refactor the analytics API due this week,1
+We need to Develop the notification service by tomorrow,1
+Someone should Enhance the search indexing logic for the next sprint,1
+uh Let's Add database performance by Friday,1
+We need to Implement API documentation by Friday,1
+so We need more information before proceeding.,0
+Please Fix the monitoring dashboard before next release,1
+like It would be good to Update the notification service as soon as possible,1
+um We need to Debug session management by tomorrow,1
+like Enhance API documentation needs to be done by Friday,1
+like Someone should Enhance the UI components before next release,1
+like Add data migration script,1
+uh Update onboarding screen due this week,1
+um Someone should Debug API documentation by Friday,1
+uh Add API documentation as soon as possible please,1
+uh Someone should Patch the notification service for the next sprint,1
+uh The team optimized the caching layer before.,0
+Let's Develop API documentation as soon as possible,1
+uh Please Develop the UI components by Friday,1
+uh Improve the payment gateway needs to be done urgently,1
+Arjun designed the onboarding screens last month.,0
+uh Let's Design session management for the next sprint,1
+um Let’s wait for stakeholder feedback.,0
+um Please Integrate data migration script due this week,1
+like We need to Develop the mobile layout urgently,1
+um We should analyze this further.,0
+The database performance improved yesterday.,0
+uh Nothing actionable at the moment.,0
+so Someone updated the payment gateway earlier.,0
+like It would be good to Patch the monitoring dashboard for the next sprint,1
+so Can someone Enhance the notification service due this week?,1
+so Let’s wait for stakeholder feedback.,0
+like It would be good to Fix the search indexing logic due this week,1
+like We need to Build user authentication due this week,1
+um Integrate the login bug needs to be done by Friday,1
+um It would be good to Migrate session management due this week,1
+like Resolve the monitoring dashboard needs to be done by tomorrow,1
+like It would be good to Create logging system as soon as possible,1
+uh This is not a priority currently.,0
+um Please Add database performance by Friday,1
+like Build unit tests needs to be done by Friday,1
+Can someone Develop logging system urgently?,1
+This depends on future planning.,0
+um Someone should Fix data migration script by Friday,1
+um Please Enhance the recommendation engine for the next sprint,1
+um This is still under review.,0
+um Can someone Design the notification service by tomorrow?,1
+uh Create the recommendation engine needs to be done urgently,1
+uh Please Improve unit tests,1
+Nothing actionable at the moment.,0
+um We need to Develop the caching layer as soon as possible,1
+uh Implement the payment gateway as soon as possible please,1
+Debug API documentation needs to be done by Friday,1
+so Please Implement onboarding screen before next release,1
+so It would be good to Improve the monitoring dashboard for the next sprint,1
+like Debug the analytics API needs to be done by tomorrow,1
+uh Please Improve the analytics API urgently,1
+like Refactor session management needs to be done due this week,1
+uh The database performance improved yesterday.,0
+so This is not a priority currently.,0
+This is not a priority currently.,0
+so Someone should Build the login bug before next release,1
+Enhance the analytics API before next release,1
+um Can someone Optimize onboarding screen due this week?,1
+uh Let's Create onboarding screen by tomorrow,1
+uh We should analyze this further.,0
+uh Let's Debug data migration script due this week,1
+like Nothing actionable at the moment.,0
+so We should Fix database performance due this week,1
+um It would be good to Migrate the analytics API,1
+um Sakshi mentioned the login bug yesterday.,0
+so Resolve the recommendation engine as soon as possible,1
+uh We should Debug the recommendation engine by Friday,1
+so The database performance improved yesterday.,0
+so We should Migrate user authentication by Friday,1
+so This decision is still pending.,0
+so Let's Debug the notification service due this week,1
+Build the recommendation engine before next release,1
+um Refactor the notification service by tomorrow please,1
+so Migrate data migration script needs to be done by Friday,1
+um This depends on future planning.,0
+so Let's Add onboarding screen by Friday,1
+uh We should Optimize session management by Friday,1
+uh Let's Improve onboarding screen due this week,1
+like Let's Configure session management before next release,1
+so Enhance the caching layer needs to be done for the next sprint,1
+It would be good to Enhance the notification service urgently,1
+uh There is no urgency for this item.,0
+so Can someone Refactor the caching layer by Friday?,1
+um Enhance the payment gateway by Friday,1
+Please Build the payment gateway as soon as possible,1
+um Fix the payment gateway for the next sprint please,1
+so We should Improve unit tests by tomorrow,1
+um We need design approval first.,0
+Please Patch the login bug urgently,1
+uh We can postpone this to next sprint.,0
+Can someone Fix the UI components urgently?,1
+Let’s wait for stakeholder feedback.,0
+uh Improve session management by tomorrow,1
+so Someone updated the payment gateway earlier.,0
+um The database performance improved yesterday.,0
+We need to Improve the monitoring dashboard due this week,1
+uh We will discuss this again tomorrow.,0
+um Someone should Implement the login bug before next release,1
+uh Write the monitoring dashboard please,1
+like Migrate the notification service before next release,1
+um We should Design the search indexing logic as soon as possible,1
+We need design approval first.,0
+uh Someone updated the payment gateway earlier.,0
+um This decision is still pending.,0
+uh Can someone Integrate logging system before next release?,1
+like We should collect more data first.,0
+um Someone should Fix the caching layer due this week,1
+uh Create the caching layer please,1
+like This requires additional approval.,0
+like Enhance user authentication urgently please,1
+so It would be good to Debug the payment gateway for the next sprint,1
+uh Can someone Build the search indexing logic by tomorrow?,1
+uh There is no urgency for this item.,0
+uh Please Implement onboarding screen for the next sprint,1
+like This will be discussed next week.,0
+Debug logging system urgently please,1
+like Arjun designed the onboarding screens last month.,0
+so We need design approval first.,0
+uh Can someone Refactor onboarding screen urgently?,1
+uh We need more information before proceeding.,0
+Migrate onboarding screen urgently please,1
+It would be good to Enhance the login bug for the next sprint,1
+Someone should Design the UI components,1
+like There is no urgency for this item.,0
+Let's Improve the search indexing logic for the next sprint,1
+We should analyze this further.,0
+like We reviewed the API documentation last week.,0
+uh Arjun designed the onboarding screens last month.,0
+um Someone should Optimize session management for the next sprint,1
+so We should wait for product input.,0
+We will discuss this again tomorrow.,0
+so There is no urgency for this item.,0
+Please Implement onboarding screen urgently,1
+so Can someone Design the caching layer by tomorrow?,1
+We should collect more data first.,0
+uh Implement data migration script urgently,1
+This decision is still pending.,0
+uh Can someone Design database performance urgently?,1
+like Can someone Patch the caching layer by tomorrow?,1
+like Can someone Resolve the notification service as soon as possible?,1
+We need design approval first.,0
+uh We should collect more data first.,0
+um Let’s wait for stakeholder feedback.,0
+so The login bug was fixed previously.,0
+We will revisit this topic later.,0
+We will revisit this topic later.,0
+um There is no urgency for this item.,0
+uh Patch the search indexing logic urgently please,1
+so We need to Write the notification service,1
+like Create data migration script needs to be done by Friday,1
+like We need to Refactor the mobile layout by Friday,1
+like We should Migrate database performance due this week,1
+um Can someone Build API documentation by Friday?,1
+like Sakshi mentioned the login bug yesterday.,0
+We should collect more data first.,0
+Someone should Configure the caching layer urgently,1
+like The login bug was fixed previously.,0
+so We can postpone this to next sprint.,0
+um Develop the payment gateway by Friday,1
+This is still under review.,0
+um The login bug was fixed previously.,0
+um We should collect more data first.,0
+The login bug was fixed previously.,0
+uh We should Migrate API documentation before next release,1
+uh Can someone Improve unit tests due this week?,1
+like We should Integrate the analytics API due this week,1
+um We should Fix the login bug for the next sprint,1
+uh There is no urgency for this item.,0
+um Arjun designed the onboarding screens last month.,0
+like Someone updated the payment gateway earlier.,0
+Nothing actionable at the moment.,0
+like We should analyze this further.,0
+This requires additional approval.,0
+so There is no urgency for this item.,0
+um Please Debug database performance for the next sprint,1
+like Refactor database performance before next release,1
+uh Let's Design unit tests urgently,1
+um Can someone Debug the recommendation engine?,1
+This will be discussed next week.,0
+uh The team optimized the caching layer before.,0
+like Enhance the analytics API due this week please,1
+uh Design onboarding screen,1
+Add the login bug needs to be done before next release,1
+like There is no blocker right now.,0
+um We should wait for product input.,0
+like There is no urgency for this item.,0
+like Arjun designed the onboarding screens last month.,0
+um We should analyze this further.,0
+uh The database performance improved yesterday.,0
+um Write the caching layer as soon as possible please,1
+like Let’s wait for stakeholder feedback.,0
+so We should wait for product input.,0
+um Someone should Refactor unit tests urgently,1
+uh We should Design API documentation before next release,1
+We will revisit this topic later.,0
+uh Sakshi mentioned the login bug yesterday.,0
+um It would be good to Enhance the search indexing logic due this week,1
+like Please Create data migration script for the next sprint,1
+like Let's Refactor the search indexing logic before next release,1
+like Arjun designed the onboarding screens last month.,0
+so It would be good to Implement the login bug by Friday,1
+like We need design approval first.,0
+uh The login bug was fixed previously.,0
+uh We should Create user authentication urgently,1
+uh Let's Optimize the payment gateway due this week,1
+so Please Create database performance for the next sprint,1
+so Sakshi mentioned the login bug yesterday.,0
+so We should wait for product input.,0
+like There is no blocker right now.,0
+like This is still under review.,0
+like Build the UI components for the next sprint,1
+like Patch data migration script before next release,1
+like Please Refactor the login bug,1
+It would be good to Create unit tests for the next sprint,1
+There is no urgency for this item.,0
+uh Design database performance as soon as possible please,1
+like We should analyze this further.,0
+like Please Integrate the search indexing logic due this week,1
+uh We should collect more data first.,0
+um There is no urgency for this item.,0
+so Someone should Add the analytics API for the next sprint,1
+uh This is still under review.,0
+uh Mohit worked on database performance last sprint.,0
+like Please Debug logging system,1
+like Create the login bug by Friday please,1
+um Can someone Create the UI components urgently?,1
+like Let’s wait for stakeholder feedback.,0
+uh It would be good to Configure the login bug by tomorrow,1
+um Improve the notification service needs to be done by tomorrow,1
+uh We reviewed the API documentation last week.,0
+Design logging system needs to be done for the next sprint,1
+so This depends on future planning.,0
+like We can postpone this to next sprint.,0
+uh Please Fix session management due this week,1
+so Create onboarding screen for the next sprint,1
+um This is still under review.,0
+uh Can someone Develop the monitoring dashboard by Friday?,1
+so Can someone Resolve unit tests for the next sprint?,1
+so We should Improve the mobile layout before next release,1
+like Design logging system needs to be done before next release,1
+Refactor data migration script by tomorrow,1
+so Let's Refactor the search indexing logic for the next sprint,1
+uh We should Enhance the mobile layout,1
+Can someone Patch unit tests before next release?,1
+uh It would be good to Add the mobile layout by tomorrow,1
+so There is no urgency for this item.,0
+uh Please Create the analytics API as soon as possible,1
+like We need to Patch the analytics API for the next sprint,1
+um We should analyze this further.,0
+uh Refactor onboarding screen as soon as possible please,1
+so Can someone Integrate the recommendation engine urgently?,1
+like We will discuss this again tomorrow.,0
+um The database performance improved yesterday.,0
+uh Integrate onboarding screen needs to be done urgently,1
+so Can someone Resolve database performance due this week?,1
+The team optimized the caching layer before.,0
+um This requires additional approval.,0
+so Someone updated the payment gateway earlier.,0
+Can someone Improve the login bug before next release?,1
+like We should Build logging system,1
+like The login bug was fixed previously.,0
+um We should analyze this further.,0
+um We need to Resolve logging system,1
+We should analyze this further.,0
+like We should Build the UI components as soon as possible,1
+so This decision is still pending.,0
+um Please Resolve the login bug due this week,1
+um We should analyze this further.,0
+uh Nothing actionable at the moment.,0
+It would be good to Create the caching layer as soon as possible,1
+We need more information before proceeding.,0
+uh We should collect more data first.,0
+um Someone should Add the payment gateway for the next sprint,1
+We need to Add the notification service due this week,1
+like We should Enhance data migration script before next release,1
+so Someone should Optimize data migration script due this week,1
+like We should analyze this further.,0
+uh Resolve user authentication needs to be done,1
+uh Someone should Refactor logging system for the next sprint,1
+like The login bug was fixed previously.,0
+uh We should Optimize user authentication by Friday,1
+It would be good to Update the recommendation engine due this week,1
+uh Mohit worked on database performance last sprint.,0
+like This decision is still pending.,0
+so There is no blocker right now.,0
+uh We will discuss this again tomorrow.,0
+um It would be good to Integrate the caching layer by tomorrow,1
+uh We need to Improve the caching layer before next release,1
+uh We should Create session management urgently,1
+so This is still under review.,0
+uh Improve the mobile layout as soon as possible,1
+so Nothing actionable at the moment.,0
+so It would be good to Improve database performance for the next sprint,1
+This will be discussed next week.,0
+We need to Patch onboarding screen for the next sprint,1
+like Can someone Migrate the mobile layout as soon as possible?,1
+like No action items were mentioned.,0
+um Can someone Build session management due this week?,1
+so There is no urgency for this item.,0
+uh Resolve unit tests by Friday please,1
+uh Please Patch the recommendation engine urgently,1
+There is no urgency for this item.,0
+uh We should Create the search indexing logic as soon as possible,1
+like The team optimized the caching layer before.,0
+um Someone should Refactor session management by Friday,1
+We should Migrate the caching layer due this week,1
+so Someone should Implement session management urgently,1
+so We will revisit this topic later.,0
+like Can someone Patch logging system by Friday?,1
+uh This depends on future planning.,0
+uh We should Patch session management for the next sprint,1
+uh Let’s wait for stakeholder feedback.,0
+like Can someone Update the caching layer for the next sprint?,1
+like Optimize unit tests needs to be done by tomorrow,1
+so Please Debug the mobile layout by Friday,1
+um It would be good to Patch user authentication for the next sprint,1
+Implement the login bug as soon as possible,1
+uh Someone should Add the monitoring dashboard urgently,1
+like The team optimized the caching layer before.,0
+so We should collect more data first.,0
+so Please Patch the UI components urgently,1
+so Someone should Migrate the analytics API before next release,1
+It would be good to Configure the recommendation engine urgently,1
+so Someone should Optimize onboarding screen before next release,1
+uh This is not a priority currently.,0
+like The database performance improved yesterday.,0
+uh Build the notification service please,1
+like Enhance data migration script needs to be done for the next sprint,1
+uh Please Improve unit tests by tomorrow,1
+so This requires additional approval.,0
+so This decision is still pending.,0
+uh We should Create the login bug before next release,1
+like Fix the recommendation engine as soon as possible please,1
+uh We need design approval first.,0
+The login bug was fixed previously.,0
+It would be good to Enhance the search indexing logic due this week,1
+like Someone should Refactor the recommendation engine urgently,1
+Let's Design user authentication by tomorrow,1
+Add user authentication needs to be done,1
+uh This is not a priority currently.,0
+um We need to Add the search indexing logic by tomorrow,1
+um Let's Configure the mobile layout before next release,1
+like Debug user authentication urgently,1
+um We should analyze this further.,0
+um Improve logging system for the next sprint please,1
+so Let's Optimize the search indexing logic by tomorrow,1
+There is no urgency for this item.,0
+like It would be good to Debug the recommendation engine by tomorrow,1
+so We need to Configure API documentation by Friday,1
+uh Someone updated the payment gateway earlier.,0
+um We should wait for product input.,0
+like Add data migration script needs to be done before next release,1
+Sakshi mentioned the login bug yesterday.,0
+so Integrate the mobile layout for the next sprint please,1
+so Please Update onboarding screen,1
+uh This is not a priority currently.,0
+like It would be good to Write the caching layer for the next sprint,1
+um Nothing actionable at the moment.,0
+so The database performance improved yesterday.,0
+um It would be good to Design the login bug by tomorrow,1
+Please Create data migration script,1
+so We need more information before proceeding.,0
+so It would be good to Design the recommendation engine by tomorrow,1
+so We need design approval first.,0
+Someone should Debug the analytics API urgently,1
+so This is not a priority currently.,0
+like The team is still evaluating this.,0
+like Implement the caching layer before next release,1
+so Please Configure the search indexing logic as soon as possible,1
+um Let's Patch session management before next release,1
+like We need to Patch the notification service before next release,1
+uh Let’s wait for stakeholder feedback.,0
+like The login bug was fixed previously.,0
+Design logging system due this week please,1
+so Write the notification service needs to be done before next release,1
+uh We need to Refactor user authentication for the next sprint,1
+We will revisit this topic later.,0
+Let's Build data migration script by Friday,1
+uh We should Integrate database performance before next release,1
+uh Can someone Add the payment gateway by tomorrow?,1
+uh Please Migrate logging system for the next sprint,1
+Please Enhance the notification service by Friday,1
+so The team optimized the caching layer before.,0
+like Enhance API documentation needs to be done,1
+like We need to Improve the recommendation engine,1
+so This will be discussed next week.,0
+so Migrate the caching layer for the next sprint please,1
+Someone should Design logging system by Friday,1
+uh It would be good to Enhance the analytics API urgently,1
+Let's Add user authentication by tomorrow,1
+um This requires additional approval.,0
+um It would be good to Resolve database performance urgently,1
+like We should Update the mobile layout due this week,1
+like Can someone Develop the analytics API by Friday?,1
+uh It would be good to Debug user authentication,1
+like We need to Refactor data migration script for the next sprint,1
+um Someone should Write onboarding screen by tomorrow,1
+like Can someone Add database performance before next release?,1
+We need design approval first.,0
+so Enhance the monitoring dashboard needs to be done for the next sprint,1
+The login bug was fixed previously.,0
+Someone should Integrate user authentication as soon as possible,1
+Migrate the caching layer as soon as possible please,1
+This depends on future planning.,0
+so Sakshi mentioned the login bug yesterday.,0
+so Improve the payment gateway as soon as possible please,1
+Patch user authentication before next release please,1
+um Fix unit tests needs to be done urgently,1
+uh We need design approval first.,0
+like This will be discussed next week.,0
+like Someone should Develop the monitoring dashboard,1
+uh Refactor the caching layer needs to be done for the next sprint,1
+uh Nothing actionable at the moment.,0
+We should Develop user authentication for the next sprint,1
+um This decision is still pending.,0
+Let's Enhance the search indexing logic by tomorrow,1
+so Someone should Create unit tests as soon as possible,1
+uh It would be good to Optimize onboarding screen as soon as possible,1
+um Sakshi mentioned the login bug yesterday.,0
+um We can postpone this to next sprint.,0
+Someone should Fix API documentation by Friday,1
+um We will revisit this topic later.,0
+uh Implement the search indexing logic,1
+um We should analyze this further.,0
+um It would be good to Add onboarding screen due this week,1
+like The login bug was fixed previously.,0
+like The team optimized the caching layer before.,0
+like We need design approval first.,0
+uh The team is still evaluating this.,0
+so The team optimized the caching layer before.,0
+um It would be good to Configure the notification service by tomorrow,1
+It would be good to Design the mobile layout,1
+Please Migrate logging system by tomorrow,1
+so We should Patch the payment gateway urgently,1
+uh Please Add user authentication before next release,1
+uh We will discuss this again tomorrow.,0
+uh Please Integrate the recommendation engine urgently,1
+uh Please Enhance data migration script,1
+It would be good to Implement session management before next release,1
+like We should Integrate data migration script,1
+um Let's Design the recommendation engine before next release,1
+so We need to Migrate the monitoring dashboard by Friday,1
+um Resolve the login bug due this week please,1
+um There is no urgency for this item.,0
+uh The team is still evaluating this.,0
+like We should collect more data first.,0
+so We should collect more data first.,0
+The login bug was fixed previously.,0
+so There is no blocker right now.,0
+uh Implement session management for the next sprint please,1
+so We need to Refactor database performance urgently,1
+like Resolve database performance urgently please,1
+uh Optimize unit tests needs to be done by Friday,1
+uh We will revisit this topic later.,0
+um Please Optimize session management by tomorrow,1
+so It would be good to Configure the login bug before next release,1
+uh We will discuss this again tomorrow.,0
+We should collect more data first.,0
+so Design the mobile layout as soon as possible please,1
+Let's Build the monitoring dashboard by Friday,1
+We should Develop the mobile layout,1
+um There is no blocker right now.,0
+like No action items were mentioned.,0
+so No action items were mentioned.,0
+like This depends on future planning.,0
+like This decision is still pending.,0
+like Please Update the recommendation engine for the next sprint,1
+uh This will be discussed next week.,0
+like Can someone Build the search indexing logic due this week?,1
+uh Resolve the login bug needs to be done,1
+uh We need more information before proceeding.,0
+so Please Optimize the notification service by tomorrow,1
+This is not a priority currently.,0
+um We need more information before proceeding.,0
+so Let’s wait for stakeholder feedback.,0
+Can someone Develop the recommendation engine?,1
+um Patch user authentication before next release please,1
+uh We need more information before proceeding.,0
+like We should Debug session management as soon as possible,1
+like Add database performance as soon as possible,1
+like We should wait for product input.,0
+like Integrate the analytics API by Friday,1
+Someone should Enhance the login bug by tomorrow,1
+This will be discussed next week.,0
+uh Please Improve the login bug for the next sprint,1
+um We should analyze this further.,0
+uh Optimize the recommendation engine urgently please,1
+like We should Create the monitoring dashboard urgently,1
+There is no blocker right now.,0
+uh Let's Design database performance,1
+like Enhance the UI components by tomorrow please,1
+so This depends on future planning.,0
+um Someone should Patch the payment gateway by Friday,1
+so We need more information before proceeding.,0
+um Can someone Develop unit tests for the next sprint?,1
+like Can someone Enhance data migration script before next release?,1
+um This requires additional approval.,0
+uh Can someone Optimize unit tests?,1
+uh Integrate API documentation by Friday,1
+This requires additional approval.,0
+like Please Refactor the caching layer by tomorrow,1
+like We should Optimize onboarding screen,1
+like Mohit worked on database performance last sprint.,0
+uh We need to Resolve the notification service urgently,1
+uh We should Update the login bug before next release,1
+um We need to Fix API documentation by tomorrow,1
+like The team optimized the caching layer before.,0
+um Mohit worked on database performance last sprint.,0
+like The team is still evaluating this.,0
+um Debug the search indexing logic urgently,1
+We will revisit this topic later.,0
+um Someone should Build the caching layer by tomorrow,1
+uh It would be good to Build the analytics API,1
+like Please Configure the notification service as soon as possible,1
+like Let’s wait for stakeholder feedback.,0
+so Arjun designed the onboarding screens last month.,0
+so Let's Develop the search indexing logic for the next sprint,1
+This decision is still pending.,0
+Can someone Design database performance as soon as possible?,1
+so We need to Create onboarding screen urgently,1
+um We should Create unit tests,1
+like We reviewed the API documentation last week.,0
+like Mohit worked on database performance last sprint.,0
+um Someone updated the payment gateway earlier.,0
+um We need design approval first.,0
+uh Please Optimize the analytics API urgently,1
+um Can someone Create unit tests by tomorrow?,1
+so Implement data migration script needs to be done as soon as possible,1
+like Can someone Write data migration script before next release?,1
+so Someone should Refactor the recommendation engine by Friday,1
+so Someone should Integrate the caching layer due this week,1
+so Please Refactor the payment gateway by Friday,1
+so Update the recommendation engine,1
+like We should Integrate the UI components by tomorrow,1
+like We should Update session management as soon as possible,1
+like Someone should Debug API documentation as soon as possible,1
+so Update the login bug by tomorrow please,1
+so Someone should Develop the login bug urgently,1
+We need to Patch the caching layer urgently,1
+The team optimized the caching layer before.,0
+uh It would be good to Resolve the payment gateway by Friday,1
+like Fix data migration script by Friday,1
+um No action items were mentioned.,0
+uh We need to Design the UI components due this week,1
+so Someone should Create the caching layer before next release,1
+so Patch the notification service due this week please,1
+so This will be discussed next week.,0
+No action items were mentioned.,0
+uh Can someone Integrate the payment gateway?,1
+so Someone should Add the caching layer due this week,1
+We should collect more data first.,0
+so Let's Patch the UI components due this week,1
+like The team is still evaluating this.,0
+like We need to Fix the login bug as soon as possible,1
+This is still under review.,0
+so We need more information before proceeding.,0
+uh We will discuss this again tomorrow.,0
+um This will be discussed next week.,0
+uh We need to Add the caching layer as soon as possible,1
+uh It would be good to Implement onboarding screen by tomorrow,1
+um Let’s wait for stakeholder feedback.,0
+so Please Write the caching layer due this week,1
+Arjun designed the onboarding screens last month.,0
+like We should Configure the payment gateway for the next sprint,1
+um We need to Create user authentication by Friday,1
+so Someone should Write the mobile layout as soon as possible,1
+like Can someone Design database performance by tomorrow?,1
+um Update the recommendation engine before next release,1
+like Add the caching layer needs to be done before next release,1
+uh The login bug was fixed previously.,0
+Refactor API documentation as soon as possible,1
+like Debug the analytics API needs to be done as soon as possible,1
+um Update data migration script needs to be done before next release,1
+uh Let's Fix the payment gateway as soon as possible,1
+like This decision is still pending.,0
+uh Integrate database performance needs to be done,1
+so Someone should Integrate the login bug before next release,1
+so Let's Integrate the mobile layout urgently,1
+so Sakshi mentioned the login bug yesterday.,0
+um We should analyze this further.,0
+uh Someone should Debug the search indexing logic before next release,1
+It would be good to Resolve data migration script urgently,1
+um Someone should Debug session management due this week,1
+uh We can postpone this to next sprint.,0
+so Migrate user authentication by Friday,1
+uh Update data migration script as soon as possible please,1
+uh We need to Create logging system by Friday,1
+so Configure unit tests urgently please,1
+We need to Patch session management,1
+Fix data migration script urgently,1
+so The team is still evaluating this.,0
+um Someone should Integrate the caching layer urgently,1
+like The database performance improved yesterday.,0
+like Someone should Migrate the login bug due this week,1
+like The login bug was fixed previously.,0
+so Someone should Fix the notification service by tomorrow,1
+like Please Integrate onboarding screen due this week,1
+We should Resolve the login bug as soon as possible,1
+like We should collect more data first.,0
+like We will revisit this topic later.,0
+uh The team optimized the caching layer before.,0
+um We should collect more data first.,0
+so No action items were mentioned.,0
+like This is still under review.,0
+uh Design the analytics API for the next sprint,1
+like The login bug was fixed previously.,0
+This decision is still pending.,0
+It would be good to Write user authentication urgently,1
+Sakshi mentioned the login bug yesterday.,0
+like This decision is still pending.,0
+uh Please Design onboarding screen by Friday,1
+like We should collect more data first.,0
+like The login bug was fixed previously.,0
+uh It would be good to Optimize the monitoring dashboard as soon as possible,1
+um Add the notification service please,1
+so We should collect more data first.,0
+like Let's Patch the mobile layout as soon as possible,1
+um We will revisit this topic later.,0
+uh Nothing actionable at the moment.,0
+We need to Write the recommendation engine before next release,1
+uh Please Design logging system due this week,1
+like Mohit worked on database performance last sprint.,0
+Improve database performance needs to be done due this week,1
+uh The database performance improved yesterday.,0
+like The team optimized the caching layer before.,0
+We should Migrate the analytics API due this week,1
+Create the search indexing logic urgently,1
+like We need to Resolve onboarding screen by Friday,1
+so Sakshi mentioned the login bug yesterday.,0
+It would be good to Refactor the recommendation engine for the next sprint,1
+um The database performance improved yesterday.,0
+like Add the search indexing logic urgently,1
+Let's Improve database performance,1
+um We should Fix the UI components before next release,1
+uh Add user authentication,1
+Let's Design the payment gateway before next release,1
+so This decision is still pending.,0
+um Can someone Configure the mobile layout urgently?,1
+so We should wait for product input.,0
+We reviewed the API documentation last week.,0
+Let’s wait for stakeholder feedback.,0
+uh We should Build session management by Friday,1
+so Let's Create database performance by Friday,1
+so Let's Fix the payment gateway by Friday,1
+uh The database performance improved yesterday.,0
+like We should Refactor the recommendation engine urgently,1
+like We should Create the monitoring dashboard urgently,1
+uh Someone should Debug the caching layer before next release,1
+like There is no urgency for this item.,0
+uh Resolve the recommendation engine needs to be done due this week,1
+We need to Optimize the UI components by Friday,1
+This is still under review.,0
+um We should collect more data first.,0
+uh Let's Integrate session management as soon as possible,1
+like It would be good to Develop unit tests,1
+like We reviewed the API documentation last week.,0
+um The login bug was fixed previously.,0
+so Please Optimize the monitoring dashboard due this week,1
+Mohit worked on database performance last sprint.,0
+like It would be good to Debug the caching layer urgently,1
+um There is no urgency for this item.,0
+um Improve the payment gateway by tomorrow,1
+It would be good to Enhance user authentication as soon as possible,1
+um Configure the mobile layout as soon as possible please,1
+like Add database performance needs to be done by tomorrow,1
+uh Fix logging system needs to be done by Friday,1
+um There is no urgency for this item.,0
+like It would be good to Enhance session management for the next sprint,1
+uh Refactor the payment gateway needs to be done,1
+um We need to Debug the analytics API by tomorrow,1
+um Configure the recommendation engine needs to be done due this week,1
+so Let's Write data migration script,1
+uh Update data migration script needs to be done as soon as possible,1
+like We should Develop the recommendation engine by Friday,1
+like This will be discussed next week.,0
+uh It would be good to Enhance the login bug,1
+This decision is still pending.,0
+like Please Improve database performance as soon as possible,1
+uh We need to Integrate user authentication due this week,1
+There is no blocker right now.,0
+uh We should wait for product input.,0
+The team is still evaluating this.,0
+uh We will discuss this again tomorrow.,0
+like We should Optimize unit tests due this week,1
+It would be good to Integrate logging system as soon as possible,1
+uh Mohit worked on database performance last sprint.,0
+um It would be good to Enhance the search indexing logic as soon as possible,1
+so This is still under review.,0
+so Refactor the analytics API needs to be done urgently,1
+This decision is still pending.,0
+like Let's Debug the notification service,1
+like We need more information before proceeding.,0
+like We can postpone this to next sprint.,0
+like Design the UI components as soon as possible please,1
+so Let's Resolve database performance due this week,1
+so Add logging system needs to be done for the next sprint,1
+um Improve data migration script due this week,1
+so Can someone Improve the mobile layout for the next sprint?,1
+Please Develop the login bug before next release,1
+um We need to Build the caching layer urgently,1
+Implement unit tests for the next sprint,1
+um We can postpone this to next sprint.,0
+um It would be good to Patch API documentation by Friday,1
+like We need to Develop the monitoring dashboard as soon as possible,1
+um Someone should Design onboarding screen urgently,1
+like Create the mobile layout needs to be done for the next sprint,1
+um This requires additional approval.,0
+like Let's Create the mobile layout as soon as possible,1
+so Migrate the payment gateway for the next sprint,1
+um We can postpone this to next sprint.,0
+like Let's Optimize the notification service for the next sprint,1
+um We should Migrate API documentation by Friday,1
+uh We should Update the mobile layout as soon as possible,1
+uh We need to Improve onboarding screen by Friday,1
+uh Please Update the payment gateway,1
+Can someone Optimize the analytics API before next release?,1
+uh Let's Improve session management urgently,1
+so Design onboarding screen needs to be done before next release,1
+Integrate the monitoring dashboard urgently,1
+We reviewed the API documentation last week.,0
+so This depends on future planning.,0
+so The database performance improved yesterday.,0
+Write the recommendation engine needs to be done before next release,1
+uh Please Update user authentication,1
+Migrate the analytics API by Friday please,1
+like It would be good to Fix user authentication before next release,1
+It would be good to Build the recommendation engine,1
+We need design approval first.,0
+so Can someone Improve onboarding screen?,1
+um It would be good to Patch session management before next release,1
+um Someone updated the payment gateway earlier.,0
+like We should wait for product input.,0
+so Can someone Build the notification service urgently?,1
+um Mohit worked on database performance last sprint.,0
+uh This requires additional approval.,0
+uh Migrate the analytics API before next release please,1
+like Someone updated the payment gateway earlier.,0
+uh It would be good to Build onboarding screen before next release,1
+um This decision is still pending.,0
+um Improve data migration script needs to be done for the next sprint,1
+uh We need to Improve unit tests urgently,1
+um We will revisit this topic later.,0
+like This will be discussed next week.,0
+uh We should Resolve the analytics API for the next sprint,1
+um Someone updated the payment gateway earlier.,0
+like We need more information before proceeding.,0
+Mohit worked on database performance last sprint.,0
+Let's Develop onboarding screen urgently,1
+so Design the monitoring dashboard due this week,1
+so We need more information before proceeding.,0
+um Someone should Update the recommendation engine by Friday,1
+Arjun designed the onboarding screens last month.,0
+Can someone Implement unit tests due this week?,1
+Can someone Create API documentation urgently?,1
+so Patch unit tests needs to be done urgently,1
+so Let's Build onboarding screen for the next sprint,1
+um Someone updated the payment gateway earlier.,0
+uh Can someone Enhance API documentation by tomorrow?,1
+so This is not a priority currently.,0
+uh This is not a priority currently.,0
+um Someone should Refactor the login bug due this week,1
+Mohit worked on database performance last sprint.,0
+like Can someone Add the UI components as soon as possible?,1
+Can someone Refactor the notification service by Friday?,1
+um Can someone Debug the mobile layout urgently?,1
+uh This is still under review.,0
+so Let's Enhance the login bug,1
+so This is not a priority currently.,0
+uh We need design approval first.,0
+um We need design approval first.,0
+This is not a priority currently.,0
+so We can postpone this to next sprint.,0
+so The team optimized the caching layer before.,0
+The login bug was fixed previously.,0
+like Please Enhance onboarding screen as soon as possible,1
+so Enhance session management by tomorrow,1
+like We should Design unit tests urgently,1
+It would be good to Refactor the caching layer as soon as possible,1
+so Can someone Debug session management for the next sprint?,1
+uh We need to Debug onboarding screen by Friday,1
+uh This requires additional approval.,0
+like Someone updated the payment gateway earlier.,0
+so Optimize the mobile layout by tomorrow,1
+Someone should Develop the mobile layout by Friday,1
+so Refactor the mobile layout before next release please,1
+like Resolve the caching layer needs to be done,1
+um It would be good to Enhance onboarding screen due this week,1
+uh It would be good to Enhance the recommendation engine,1
+um It would be good to Integrate the mobile layout for the next sprint,1
+um Someone should Configure data migration script as soon as possible,1
+uh Mohit worked on database performance last sprint.,0
+uh Someone should Update the UI components due this week,1
+uh Design the search indexing logic by Friday,1
+We need to Fix the recommendation engine by Friday,1
+uh Migrate onboarding screen for the next sprint please,1
+so Arjun designed the onboarding screens last month.,0
+um We need to Enhance the monitoring dashboard by tomorrow,1
+so Configure the analytics API needs to be done as soon as possible,1
+Please Fix the UI components for the next sprint,1
+like Someone should Migrate the notification service urgently,1
+uh Can someone Refactor the mobile layout as soon as possible?,1
+um Write the login bug by Friday,1
+like Patch the caching layer by Friday,1
+uh Design the payment gateway,1
+Can someone Integrate onboarding screen for the next sprint?,1
+um We should Add the caching layer as soon as possible,1
+Let's Design the recommendation engine by Friday,1
+Update logging system needs to be done by Friday,1
+um Migrate the caching layer for the next sprint,1
+so Please Design database performance as soon as possible,1
+like We should Integrate logging system by tomorrow,1
+so It would be good to Migrate onboarding screen by tomorrow,1
+Someone should Migrate logging system by tomorrow,1
+um This is still under review.,0
+We can postpone this to next sprint.,0
+so Configure the mobile layout,1
+um We should Add the login bug by Friday,1
+so We should Develop unit tests urgently,1
+so Please Add the payment gateway,1
+uh We need to Add the monitoring dashboard by Friday,1
+um Someone should Resolve the caching layer by tomorrow,1
+Someone should Improve the caching layer,1
+uh We will discuss this again tomorrow.,0
+It would be good to Optimize the mobile layout for the next sprint,1
+um We reviewed the API documentation last week.,0
+This is not a priority currently.,0
+so This will be discussed next week.,0
+Can someone Fix unit tests before next release?,1
+Nothing actionable at the moment.,0
+like Please Improve user authentication for the next sprint,1
+It would be good to Enhance the login bug by Friday,1
+This is not a priority currently.,0
+like Someone should Create data migration script urgently,1
+so Build the mobile layout needs to be done for the next sprint,1
+The team optimized the caching layer before.,0
+uh Implement unit tests by Friday,1
+like Can someone Write logging system as soon as possible?,1
+Someone should Improve onboarding screen by Friday,1
+Someone updated the payment gateway earlier.,0
+We should collect more data first.,0
+um We need to Add the monitoring dashboard before next release,1
+like The team is still evaluating this.,0
+This requires additional approval.,0
+so We should collect more data first.,0
+um Let's Update the notification service,1
+um This is still under review.,0
+like We need more information before proceeding.,0
+The team is still evaluating this.,0
+um Improve the mobile layout needs to be done before next release,1
+so We need to Resolve the notification service as soon as possible,1
+like Sakshi mentioned the login bug yesterday.,0
+like This decision is still pending.,0
+like We will discuss this again tomorrow.,0
+um We should wait for product input.,0
+Optimize data migration script,1
+um Design the UI components urgently,1
+so We will revisit this topic later.,0
+like Resolve logging system by tomorrow please,1
+like Let’s wait for stakeholder feedback.,0
+uh There is no blocker right now.,0
+like We should collect more data first.,0
+It would be good to Improve the monitoring dashboard as soon as possible,1
+uh Nothing actionable at the moment.,0
+We can postpone this to next sprint.,0
+like It would be good to Configure logging system,1
+uh It would be good to Add the notification service,1
+like Please Develop the monitoring dashboard by Friday,1
+uh It would be good to Update the monitoring dashboard due this week,1
+so Arjun designed the onboarding screens last month.,0
+so Let's Build data migration script before next release,1
+um We should wait for product input.,0
+um We need to Refactor the caching layer by Friday,1
+Someone should Develop the search indexing logic for the next sprint,1
+Someone updated the payment gateway earlier.,0
+um Fix the recommendation engine by tomorrow please,1
+like Please Optimize API documentation,1
+uh It would be good to Build the UI components due this week,1
+uh This is still under review.,0
+uh Please Migrate session management before next release,1
+so Create the login bug needs to be done before next release,1
+We can postpone this to next sprint.,0
+Let's Refactor onboarding screen urgently,1
+so We should Integrate user authentication as soon as possible,1
+This decision is still pending.,0
+um It would be good to Optimize the notification service due this week,1
+Let’s wait for stakeholder feedback.,0
+um Develop the payment gateway needs to be done by tomorrow,1
+um Can someone Implement the notification service as soon as possible?,1
+uh The team is still evaluating this.,0
+um Sakshi mentioned the login bug yesterday.,0
+so Update the recommendation engine for the next sprint please,1
+uh Please Fix unit tests before next release,1
+so We should Create data migration script due this week,1
+We should Optimize the analytics API by Friday,1
+so Let's Fix the search indexing logic,1
+uh The team optimized the caching layer before.,0
+like We should Resolve onboarding screen for the next sprint,1
+um Can someone Improve user authentication by Friday?,1
+uh Can someone Update unit tests for the next sprint?,1
+so There is no urgency for this item.,0
+um We should Enhance the notification service urgently,1
+like We should Refactor logging system by tomorrow,1
+so Write database performance needs to be done by Friday,1
+um It would be good to Fix the caching layer by Friday,1
+Someone updated the payment gateway earlier.,0
+uh It would be good to Enhance unit tests urgently,1
+so We can postpone this to next sprint.,0
+um It would be good to Patch unit tests as soon as possible,1
+like The database performance improved yesterday.,0
+so The database performance improved yesterday.,0
+um Please Integrate the login bug before next release,1
+Can someone Build unit tests for the next sprint?,1
+Arjun designed the onboarding screens last month.,0
+uh We should Resolve the search indexing logic as soon as possible,1
+um Fix user authentication by tomorrow please,1
+like It would be good to Implement database performance for the next sprint,1
+so Please Integrate the search indexing logic before next release,1
+uh Can someone Design data migration script as soon as possible?,1
+so We can postpone this to next sprint.,0
+like We should Implement the login bug as soon as possible,1
+uh Someone updated the payment gateway earlier.,0
+like It would be good to Write unit tests as soon as possible,1
+so Can someone Resolve the UI components due this week?,1
+uh Configure the caching layer needs to be done as soon as possible,1
+um Add the payment gateway for the next sprint,1
+um No action items were mentioned.,0
+um It would be good to Improve API documentation,1
+so Improve unit tests needs to be done due this week,1
+so Nothing actionable at the moment.,0
+um Develop the caching layer needs to be done before next release,1
+like It would be good to Design the UI components as soon as possible,1
+uh We need to Patch session management before next release,1
+We should collect more data first.,0
+um Arjun designed the onboarding screens last month.,0
+Update the analytics API needs to be done by tomorrow,1
+so The team is still evaluating this.,0
+like It would be good to Improve the analytics API by tomorrow,1
+like We should Develop database performance,1
+uh Someone should Update the search indexing logic by Friday,1
+like Nothing actionable at the moment.,0
+like Enhance logging system please,1
+We should collect more data first.,0
+We should Implement API documentation by tomorrow,1
+Let's Resolve the login bug urgently,1
+like Let's Design database performance urgently,1
+um Someone should Add the mobile layout urgently,1
+so Debug the caching layer due this week,1
+um This decision is still pending.,0
+uh The database performance improved yesterday.,0
+um Please Add data migration script as soon as possible,1
+uh Let's Migrate API documentation before next release,1
+um Enhance the search indexing logic due this week please,1
+like We will revisit this topic later.,0
+like We should analyze this further.,0
+so Mohit worked on database performance last sprint.,0
+Mohit worked on database performance last sprint.,0
+We should Improve unit tests as soon as possible,1
+This will be discussed next week.,0
+so There is no blocker right now.,0
+like There is no blocker right now.,0
+um Configure the search indexing logic,1
+um Please Patch the mobile layout by tomorrow,1
+so Nothing actionable at the moment.,0
+Can someone Implement the monitoring dashboard urgently?,1
+The login bug was fixed previously.,0
+like We will revisit this topic later.,0
+so We can postpone this to next sprint.,0
+like Let's Migrate the caching layer by Friday,1
+uh Arjun designed the onboarding screens last month.,0
+Update API documentation needs to be done,1
+like Someone updated the payment gateway earlier.,0
+like The team optimized the caching layer before.,0
+This will be discussed next week.,0
+uh Can someone Implement session management for the next sprint?,1
+so Someone should Create the recommendation engine before next release,1
+uh We need to Resolve data migration script by Friday,1
+Mohit worked on database performance last sprint.,0
+so Implement the UI components by Friday please,1
+um Someone should Refactor the login bug for the next sprint,1
+so Please Design database performance for the next sprint,1
+so This will be discussed next week.,0
+uh We should wait for product input.,0
+like It would be good to Write session management as soon as possible,1
+We reviewed the API documentation last week.,0
+uh We need to Enhance session management due this week,1
+The team optimized the caching layer before.,0
+so Fix the payment gateway due this week,1
+so Please Design the mobile layout due this week,1
+um Mohit worked on database performance last sprint.,0
+um Arjun designed the onboarding screens last month.,0
+like Someone should Patch the notification service urgently,1
+um Please Write the mobile layout urgently,1
+uh Let's Debug unit tests due this week,1
+We need to Develop the login bug by tomorrow,1
+um Can someone Implement data migration script by Friday?,1
+um This decision is still pending.,0
+Develop unit tests please,1
+like This depends on future planning.,0
+uh Let's Optimize the mobile layout before next release,1
+um Let’s wait for stakeholder feedback.,0
+Can someone Design onboarding screen due this week?,1
+so Build the recommendation engine due this week please,1
+like The team optimized the caching layer before.,0
+like Can someone Develop the UI components by tomorrow?,1
+so Create the payment gateway before next release please,1
+uh We will discuss this again tomorrow.,0
+so We need design approval first.,0
+like Design database performance due this week,1
+um Arjun designed the onboarding screens last month.,0
+so Someone should Write the analytics API as soon as possible,1
+uh Can someone Add logging system urgently?,1
+like This is not a priority currently.,0
+um Please Create the analytics API due this week,1
+like We should Migrate session management by Friday,1
+so It would be good to Fix the caching layer due this week,1
+sentence,label
+Enhance the monitoring dashboard by tomorrow,1
+Configure logging system as soon as possible,1
+Improve the mobile layout urgently,1
+This requires additional approval.,0
+We need more information before proceeding.,0
+This is still under review.,0
+Fix session management by tomorrow,1
+Resolve onboarding screen as soon as possible,1
+We will revisit this topic later.,0
+Improve the UI components as soon as possible,1
+This requires additional approval.,0
+Write logging system by tomorrow,1
+Update logging system due this week,1
+We need design approval first.,0
+This decision is still pending.,0
+Design unit tests,1
+Optimize the caching layer by tomorrow,1
+Build the notification service by Friday,1
+We should collect more data first.,0
+This will be discussed next week.,0
+This depends on future planning.,0
+We can postpone this to next sprint.,0
+Create API documentation due this week,1
+The team is still evaluating this.,0
+Optimize the analytics API,1
+This is still under review.,0
+Nothing actionable at the moment.,0
+This depends on future planning.,0
+Enhance the caching layer,1
+Enhance the recommendation engine,1
+There is no blocker right now.,0
+We should wait for product input.,0
+Develop user authentication,1
+Implement the analytics API urgently,1
+Integrate the recommendation engine as soon as possible,1
+The team is still evaluating this.,0
+This decision is still pending.,0
+Configure the caching layer by tomorrow,1
+Write the UI components urgently,1
+There is no blocker right now.,0
+Nothing actionable at the moment.,0
+Create logging system by Friday,1
+Develop API documentation before next release,1
+Create logging system due this week,1
+There is no urgency for this item.,0
+We need design approval first.,0
+Integrate onboarding screen by Friday,1
+Develop API documentation due this week,1
+We can postpone this to next sprint.,0
+We should analyze this further.,0
+We should collect more data first.,0
+This requires additional approval.,0
+Enhance the mobile layout before next release,1
+Update the login bug urgently,1
+Write API documentation urgently,1
+Build logging system as soon as possible,1
+This depends on future planning.,0
+Patch the caching layer by Friday,1
+Create the UI components as soon as possible,1
+Implement the recommendation engine by tomorrow,1
+We will revisit this topic later.,0
+Refactor the notification service for the next sprint,1
+This decision is still pending.,0
+Debug data migration script by Friday,1
+Enhance database performance urgently,1
+This depends on future planning.,0
+Optimize API documentation due this week,1
+Create the recommendation engine for the next sprint,1
+Debug the notification service urgently,1
+Patch logging system urgently,1
+We need more information before proceeding.,0
+Create API documentation as soon as possible,1
+There is no blocker right now.,0
+Patch the analytics API by Friday,1
+The team is still evaluating this.,0
+We will revisit this topic later.,0
+Write onboarding screen by Friday,1
+The team is still evaluating this.,0
+Design the login bug due this week,1
+Patch the payment gateway before next release,1
+There is no blocker right now.,0
+Implement the recommendation engine due this week,1
+Build the UI components by Friday,1
+Add the payment gateway by tomorrow,1
+Implement API documentation as soon as possible,1
+We can postpone this to next sprint.,0
+Migrate the recommendation engine,1
+Debug the notification service as soon as possible,1
+We need more information before proceeding.,0
+This is still under review.,0
+This decision is still pending.,0
+Build database performance by Friday,1
+Enhance logging system as soon as possible,1
+Integrate the search indexing logic,1
+Design the search indexing logic due this week,1
+This is not a priority currently.,0
+Develop onboarding screen,1
+This requires additional approval.,0
+We need more information before proceeding.,0
+We can postpone this to next sprint.,0
+Write data migration script before next release,1
+Implement API documentation due this week,1
+The team is still evaluating this.,0
+This will be discussed next week.,0
+Implement database performance by Friday,1
+Update the UI components before next release,1
+Configure database performance for the next sprint,1
+Configure session management,1
+Configure database performance due this week,1
+There is no urgency for this item.,0
+We need more information before proceeding.,0
+Optimize user authentication by tomorrow,1
+Implement the analytics API for the next sprint,1
+We need design approval first.,0
+Migrate the mobile layout before next release,1
+Implement onboarding screen urgently,1
+This is not a priority currently.,0
+Integrate onboarding screen by tomorrow,1
+We need design approval first.,0
+We will revisit this topic later.,0
+Patch the payment gateway for the next sprint,1
+We need design approval first.,0
+Develop the mobile layout for the next sprint,1
+No action items were mentioned.,0
+Write onboarding screen by tomorrow,1
+Implement logging system as soon as possible,1
+This decision is still pending.,0
+We need more information before proceeding.,0
+This is not a priority currently.,0
+We can postpone this to next sprint.,0
+Write session management due this week,1
+This requires additional approval.,0
+Add data migration script,1
+Develop the login bug before next release,1
+Let’s wait for stakeholder feedback.,0
+Let’s wait for stakeholder feedback.,0
+Migrate the login bug by tomorrow,1
+Patch the caching layer due this week,1
+Update unit tests,1
+Update the UI components,1
+We should wait for product input.,0
+We should collect more data first.,0
+No action items were mentioned.,0
+Implement onboarding screen before next release,1
+This is not a priority currently.,0
+There is no urgency for this item.,0
+Patch logging system by Friday,1
+We need design approval first.,0
+Optimize the caching layer,1
+Enhance API documentation for the next sprint,1
+We will discuss this again tomorrow.,0
+We should collect more data first.,0
+This is still under review.,0
+This requires additional approval.,0
+Optimize the recommendation engine due this week,1
+Refactor database performance due this week,1
+This is not a priority currently.,0
+We need more information before proceeding.,0
+We should analyze this further.,0
+Develop API documentation by tomorrow,1
+Enhance logging system before next release,1
+Enhance the mobile layout by tomorrow,1
+This decision is still pending.,0
+Design the recommendation engine by tomorrow,1
+Nothing actionable at the moment.,0
+Write data migration script by tomorrow,1
+Configure data migration script before next release,1
+Debug data migration script,1
+We need more information before proceeding.,0
+Refactor the login bug urgently,1
+Add the notification service as soon as possible,1
+We will revisit this topic later.,0
+We should wait for product input.,0
+Build onboarding screen,1
+Refactor the analytics API urgently,1
+Implement onboarding screen due this week,1
+Write data migration script for the next sprint,1
+Update the notification service urgently,1
+We should collect more data first.,0
+Update the notification service for the next sprint,1
+Add session management due this week,1
+Fix unit tests by tomorrow,1
+This requires additional approval.,0
+We need design approval first.,0
+There is no blocker right now.,0
+Write logging system by tomorrow,1
+This requires additional approval.,0
+Update the mobile layout for the next sprint,1
+Add the analytics API urgently,1
+Refactor the UI components before next release,1
+Implement API documentation as soon as possible,1
+Create the UI components for the next sprint,1
+We can postpone this to next sprint.,0
+Design the login bug by Friday,1
+Migrate database performance due this week,1
+Create unit tests,1
+This will be discussed next week.,0
+We will revisit this topic later.,0
+There is no urgency for this item.,0
+We can postpone this to next sprint.,0
+Resolve database performance as soon as possible,1
+We can postpone this to next sprint.,0
+We will discuss this again tomorrow.,0
+Implement data migration script by Friday,1
+Implement data migration script due this week,1
+Resolve logging system urgently,1
+No action items were mentioned.,0
+Write the mobile layout for the next sprint,1
+Add database performance urgently,1
+Improve unit tests as soon as possible,1
+Refactor the recommendation engine by Friday,1
+Design database performance as soon as possible,1
+Integrate the search indexing logic,1
+Update the notification service by Friday,1
+This requires additional approval.,0
+Add the analytics API before next release,1
+We need design approval first.,0
+Enhance logging system urgently,1
+Implement session management before next release,1
+Refactor session management by tomorrow,1
+This requires additional approval.,0
+Refactor the monitoring dashboard before next release,1
+Update the login bug as soon as possible,1
+Write API documentation due this week,1
+Nothing actionable at the moment.,0
+Debug data migration script for the next sprint,1
+Fix the mobile layout due this week,1
+Nothing actionable at the moment.,0
+Let’s wait for stakeholder feedback.,0
+This decision is still pending.,0
+This will be discussed next week.,0
+Optimize the UI components,1
+Configure the recommendation engine before next release,1
+The team is still evaluating this.,0
+Fix the search indexing logic,1
+Design the search indexing logic before next release,1
+This is still under review.,0
+Enhance user authentication before next release,1
+Integrate the monitoring dashboard by tomorrow,1
+This depends on future planning.,0
+Optimize the analytics API before next release,1
+Nothing actionable at the moment.,0
+This decision is still pending.,0
+Develop the UI components,1
+Debug user authentication,1
+Add API documentation before next release,1
+Migrate unit tests for the next sprint,1
+Write the caching layer due this week,1
+There is no urgency for this item.,0
+Update the search indexing logic,1
+There is no blocker right now.,0
+Nothing actionable at the moment.,0
+Develop the notification service,1
+Improve the recommendation engine due this week,1
+Add the notification service as soon as possible,1
+Create the recommendation engine,1
+Design unit tests before next release,1
+This is not a priority currently.,0
+Implement database performance for the next sprint,1
+We will revisit this topic later.,0
+Write the recommendation engine as soon as possible,1
+We need more information before proceeding.,0
+There is no urgency for this item.,0
+Nothing actionable at the moment.,0
+The team is still evaluating this.,0
+Let’s wait for stakeholder feedback.,0
+Resolve API documentation urgently,1
+Patch the UI components as soon as possible,1
+We can postpone this to next sprint.,0
+Implement API documentation,1
+Develop logging system due this week,1
+Add the notification service as soon as possible,1
+This is still under review.,0
+Configure API documentation by tomorrow,1
+Let’s wait for stakeholder feedback.,0
+Create user authentication,1
+Fix API documentation before next release,1
+Implement user authentication,1
+Integrate the login bug,1
+This depends on future planning.,0
+Migrate the search indexing logic before next release,1
+We need more information before proceeding.,0
+Add the recommendation engine by Friday,1
+Integrate the caching layer as soon as possible,1
+We should analyze this further.,0
+Integrate session management urgently,1
+This depends on future planning.,0
+We can postpone this to next sprint.,0
+We should analyze this further.,0
+There is no urgency for this item.,0
+Optimize data migration script due this week,1
+Refactor the payment gateway as soon as possible,1
+Optimize the search indexing logic,1
+We should analyze this further.,0
+Create the monitoring dashboard by Friday,1
+Design onboarding screen by Friday,1
+This requires additional approval.,0
+Refactor logging system,1
+Configure the search indexing logic,1
+We should analyze this further.,0
+We need more information before proceeding.,0
+Fix the login bug,1
+Patch onboarding screen,1
+Update session management by tomorrow,1
+Migrate the monitoring dashboard due this week,1
+This is not a priority currently.,0
+Update logging system urgently,1
+We can postpone this to next sprint.,0
+Add the UI components due this week,1
+We should collect more data first.,0
+This depends on future planning.,0
+Enhance the analytics API,1
+We need design approval first.,0
+We should wait for product input.,0
+Enhance onboarding screen urgently,1
+Update the UI components by tomorrow,1
+Configure onboarding screen by tomorrow,1
+This is not a priority currently.,0
+Enhance data migration script before next release,1
+Update API documentation urgently,1
+Design the mobile layout,1
+No action items were mentioned.,0
+Nothing actionable at the moment.,0
+This will be discussed next week.,0
+Refactor the login bug,1
+Implement onboarding screen due this week,1
+This decision is still pending.,0
+This is still under review.,0
+Develop API documentation due this week,1
+Create the mobile layout by tomorrow,1
+This decision is still pending.,0
+Integrate the mobile layout as soon as possible,1
+Update the payment gateway as soon as possible,1
+This requires additional approval.,0
+We should analyze this further.,0
+We need design approval first.,0
+This decision is still pending.,0
+We will discuss this again tomorrow.,0
+Migrate database performance due this week,1
+This is not a priority currently.,0
+This depends on future planning.,0
+Debug onboarding screen urgently,1
+Write the payment gateway before next release,1
+Patch session management by tomorrow,1
+Update the mobile layout by Friday,1
+Build the login bug as soon as possible,1
+Nothing actionable at the moment.,0
+Write user authentication before next release,1
+We should analyze this further.,0
+Implement onboarding screen for the next sprint,1
+Patch logging system by Friday,1
+Migrate logging system due this week,1
+This decision is still pending.,0
+Integrate the caching layer,1
+Let’s wait for stakeholder feedback.,0
+We need more information before proceeding.,0
+Write the analytics API before next release,1
+This will be discussed next week.,0
+Implement data migration script before next release,1
+There is no blocker right now.,0
+No action items were mentioned.,0
+Resolve onboarding screen,1
+Build the caching layer by Friday,1
+Add onboarding screen urgently,1
+Debug session management for the next sprint,1
+There is no blocker right now.,0
+Refactor unit tests,1
+Design the search indexing logic,1
+We need more information before proceeding.,0
+This requires additional approval.,0
+This requires additional approval.,0
+This will be discussed next week.,0
+Optimize user authentication due this week,1
+Enhance the caching layer by Friday,1
+Update the login bug for the next sprint,1
+Refactor onboarding screen before next release,1
+Optimize the monitoring dashboard by Friday,1
+We can postpone this to next sprint.,0
+Enhance onboarding screen due this week,1
+Enhance the caching layer,1
+Resolve the notification service before next release,1
+No action items were mentioned.,0
+Build the analytics API for the next sprint,1
+Integrate onboarding screen as soon as possible,1
+Improve the analytics API urgently,1
+We will revisit this topic later.,0
+We should analyze this further.,0
+Develop API documentation by tomorrow,1
+Refactor the notification service,1
+Implement the monitoring dashboard by Friday,1
+Migrate API documentation,1
+No action items were mentioned.,0
+This decision is still pending.,0
+This is still under review.,0
+Design the analytics API for the next sprint,1
+Create data migration script urgently,1
+We should analyze this further.,0
+Build database performance by Friday,1
+Debug the notification service due this week,1
+Resolve API documentation due this week,1
+Debug the monitoring dashboard as soon as possible,1
+Configure the notification service urgently,1
+Debug the caching layer for the next sprint,1
+Debug data migration script as soon as possible,1
+We need design approval first.,0
+Configure data migration script before next release,1
+Refactor the notification service due this week,1
+Improve the notification service by tomorrow,1
+We should wait for product input.,0
+Build onboarding screen by Friday,1
+We will revisit this topic later.,0
+We should wait for product input.,0
+Debug the monitoring dashboard by Friday,1
+Optimize the login bug,1
+Update the caching layer by Friday,1
+This requires additional approval.,0
+Let’s wait for stakeholder feedback.,0
+Enhance onboarding screen by tomorrow,1
+We should collect more data first.,0
+This decision is still pending.,0
+This is not a priority currently.,0
+Migrate API documentation by Friday,1
+There is no blocker right now.,0
+Integrate the login bug,1
+Update the search indexing logic by Friday,1
+Let’s wait for stakeholder feedback.,0
+Design the caching layer by tomorrow,1
+Build API documentation by tomorrow,1
+This is not a priority currently.,0
+Fix the analytics API due this week,1
+Create the recommendation engine before next release,1
+Implement logging system as soon as possible,1
+The team is still evaluating this.,0
+We should wait for product input.,0
+We will revisit this topic later.,0
+This requires additional approval.,0
+Create API documentation by tomorrow,1
+This will be discussed next week.,0
+Resolve session management,1
+This is not a priority currently.,0
+We should collect more data first.,0
+We can postpone this to next sprint.,0
+Fix logging system urgently,1
+No action items were mentioned.,0
+We can postpone this to next sprint.,0
+Implement the recommendation engine as soon as possible,1
+This depends on future planning.,0
+Add data migration script as soon as possible,1
+Fix the payment gateway by Friday,1
+This depends on future planning.,0
+Debug the mobile layout for the next sprint,1
+Design the UI components by tomorrow,1
+Patch the UI components urgently,1
+The team is still evaluating this.,0
+Add database performance for the next sprint,1
+Refactor the monitoring dashboard as soon as possible,1
+We should wait for product input.,0
+Refactor session management,1
+The team is still evaluating this.,0
+Build the payment gateway urgently,1
+Implement the mobile layout due this week,1
+There is no urgency for this item.,0
+We should analyze this further.,0
+Integrate database performance before next release,1
+Optimize the analytics API urgently,1
+Integrate the login bug due this week,1
+We should analyze this further.,0
+Resolve the search indexing logic,1
+Improve API documentation urgently,1
+Implement onboarding screen as soon as possible,1
+Nothing actionable at the moment.,0
+The team is still evaluating this.,0
+Migrate the UI components by tomorrow,1
+We should wait for product input.,0
+There is no blocker right now.,0
+There is no urgency for this item.,0
+We will discuss this again tomorrow.,0
+Enhance database performance by tomorrow,1
+Design the analytics API for the next sprint,1
+We can postpone this to next sprint.,0
+Let’s wait for stakeholder feedback.,0
+Improve the recommendation engine urgently,1
+Write unit tests by Friday,1
+Integrate logging system as soon as possible,1
+Let’s wait for stakeholder feedback.,0
+Add API documentation by tomorrow,1
+Design the search indexing logic by tomorrow,1
+The team is still evaluating this.,0
+Implement the caching layer as soon as possible,1
+Create the mobile layout by Friday,1
+Debug database performance urgently,1
+This requires additional approval.,0
+This depends on future planning.,0
+Fix the search indexing logic urgently,1
+Integrate the UI components as soon as possible,1
+We should collect more data first.,0
+Build the notification service as soon as possible,1
+We will revisit this topic later.,0
+There is no urgency for this item.,0
+Improve onboarding screen as soon as possible,1
+Improve the login bug,1
+There is no urgency for this item.,0
+Let’s wait for stakeholder feedback.,0
+The team is still evaluating this.,0
+We should wait for product input.,0
+Fix the notification service for the next sprint,1
+We can postpone this to next sprint.,0
+The team is still evaluating this.,0
+Debug the recommendation engine by Friday,1
+There is no urgency for this item.,0
+We need more information before proceeding.,0
+Patch the mobile layout before next release,1
+Enhance user authentication before next release,1
+We should wait for product input.,0
+There is no blocker right now.,0
+Fix the monitoring dashboard by tomorrow,1
+Design the analytics API for the next sprint,1
+Write logging system as soon as possible,1
+Develop data migration script urgently,1
+Optimize onboarding screen,1
+We should analyze this further.,0
+Nothing actionable at the moment.,0
+Optimize onboarding screen by tomorrow,1
+Debug the recommendation engine due this week,1
+Resolve unit tests by Friday,1
+Build the recommendation engine due this week,1
+Create API documentation by Friday,1
+Optimize the payment gateway,1
+This will be discussed next week.,0
+We need design approval first.,0
+There is no blocker right now.,0
+Let’s wait for stakeholder feedback.,0
+Develop the UI components for the next sprint,1
+This is still under review.,0
+Let’s wait for stakeholder feedback.,0
+We should analyze this further.,0
+No action items were mentioned.,0
+Resolve unit tests urgently,1
+Refactor the caching layer due this week,1
+Let’s wait for stakeholder feedback.,0
+Improve the payment gateway by Friday,1
+Resolve the UI components before next release,1
+This will be discussed next week.,0
+No action items were mentioned.,0
+We will revisit this topic later.,0
+Develop the notification service,1
+Refactor the recommendation engine for the next sprint,1
+This requires additional approval.,0
+Implement the login bug by Friday,1
+This depends on future planning.,0
+Refactor the caching layer for the next sprint,1
+Fix the caching layer,1
+Design the search indexing logic for the next sprint,1
+Debug the mobile layout as soon as possible,1
+Implement the UI components for the next sprint,1
+We can postpone this to next sprint.,0
+This depends on future planning.,0
+There is no blocker right now.,0
+Migrate onboarding screen urgently,1
+We should collect more data first.,0
+Implement the monitoring dashboard,1
+Implement session management by tomorrow,1
+Create data migration script by Friday,1
+Write logging system before next release,1
+Optimize the search indexing logic due this week,1
+We will discuss this again tomorrow.,0
+We will discuss this again tomorrow.,0
+This depends on future planning.,0
+Migrate user authentication,1
+We will discuss this again tomorrow.,0
+Update the recommendation engine due this week,1
+Enhance session management before next release,1
+Migrate the login bug by tomorrow,1
+Nothing actionable at the moment.,0
+Configure onboarding screen as soon as possible,1
+Configure data migration script by tomorrow,1
+There is no blocker right now.,0
+There is no blocker right now.,0
+Resolve the analytics API,1
+This requires additional approval.,0
+This will be discussed next week.,0
+Build the notification service by Friday,1
+Migrate the mobile layout for the next sprint,1
+We need more information before proceeding.,0
+We need more information before proceeding.,0
+Fix session management for the next sprint,1
+We should collect more data first.,0
+We should collect more data first.,0
+Migrate the login bug,1
+Create user authentication urgently,1
+We should analyze this further.,0
+Implement data migration script due this week,1
+Enhance onboarding screen as soon as possible,1
+This decision is still pending.,0
+Patch session management as soon as possible,1
+Develop the recommendation engine,1
+Enhance onboarding screen as soon as possible,1
+We will revisit this topic later.,0
+Fix unit tests for the next sprint,1
+Migrate logging system by tomorrow,1
+Improve logging system by tomorrow,1
+Optimize the analytics API for the next sprint,1
+The team is still evaluating this.,0
+Enhance API documentation as soon as possible,1
+Let’s wait for stakeholder feedback.,0
+Add database performance before next release,1
+Create the notification service urgently,1
+Create data migration script by Friday,1
+This is not a priority currently.,0
+We should wait for product input.,0
+We will revisit this topic later.,0
+Configure logging system due this week,1
+Write the search indexing logic for the next sprint,1
+Integrate database performance for the next sprint,1
+Update the notification service before next release,1
+We should wait for product input.,0
+There is no blocker right now.,0
+This decision is still pending.,0
+Improve API documentation for the next sprint,1
+Write unit tests due this week,1
+Design the login bug as soon as possible,1
+Configure the login bug due this week,1
+Create the UI components as soon as possible,1
+Nothing actionable at the moment.,0
+Build unit tests for the next sprint,1
+We should collect more data first.,0
+Implement the caching layer for the next sprint,1
+We should analyze this further.,0
+No action items were mentioned.,0
+Implement the analytics API,1
+Design user authentication by Friday,1
+Add the analytics API,1
+Debug user authentication for the next sprint,1
+We need design approval first.,0
+Build the payment gateway,1
+Refactor unit tests,1
+Integrate session management due this week,1
+Migrate the monitoring dashboard urgently,1
+We need design approval first.,0
+We should wait for product input.,0
+Implement the monitoring dashboard for the next sprint,1
+Debug database performance urgently,1
+Resolve the analytics API,1
+Implement the payment gateway before next release,1
+Fix the analytics API for the next sprint,1
+Integrate onboarding screen by tomorrow,1
+Add user authentication,1
+Patch unit tests before next release,1
+Refactor the payment gateway as soon as possible,1
+No action items were mentioned.,0
+There is no blocker right now.,0
+Improve unit tests as soon as possible,1
+Fix the login bug as soon as possible,1
+There is no blocker right now.,0
+Enhance database performance as soon as possible,1
+Refactor onboarding screen by tomorrow,1
+We will discuss this again tomorrow.,0
+Design session management,1
+Write unit tests by Friday,1
+The team is still evaluating this.,0
+Create the caching layer urgently,1
+The team is still evaluating this.,0
+Integrate the caching layer due this week,1
+Patch API documentation by Friday,1
+Add logging system by Friday,1
+Let’s wait for stakeholder feedback.,0
+Let’s wait for stakeholder feedback.,0
+Implement unit tests by Friday,1
+Write database performance by Friday,1
+This decision is still pending.,0
+The team is still evaluating this.,0
+We should wait for product input.,0
+Improve the mobile layout for the next sprint,1
+We should wait for product input.,0
+Enhance unit tests by Friday,1
+Enhance the UI components before next release,1
+Improve the login bug before next release,1
+Fix user authentication for the next sprint,1
+Let’s wait for stakeholder feedback.,0
+Integrate the notification service before next release,1
+Add API documentation due this week,1
+We need more information before proceeding.,0
+There is no blocker right now.,0
+Add the recommendation engine by Friday,1
+Patch API documentation for the next sprint,1
+Design the monitoring dashboard as soon as possible,1
+This depends on future planning.,0
+Nothing actionable at the moment.,0
+There is no blocker right now.,0
+We will revisit this topic later.,0
+Implement data migration script for the next sprint,1
+Develop session management for the next sprint,1
+Create database performance for the next sprint,1
+We need design approval first.,0
+This will be discussed next week.,0
+Optimize onboarding screen urgently,1
+This is not a priority currently.,0
+Patch database performance for the next sprint,1
+Integrate the caching layer urgently,1
+This will be discussed next week.,0
